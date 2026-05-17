@@ -1,0 +1,143 @@
+/* Заголовок результатов */
+.results-header {
+    text-align: center;
+    padding: 24px 16px;
+}
+
+.results-header h1 {
+    font-size: 22px;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.block-subtitle {
+    color: #888;
+    font-size: 14px;
+    margin: 0;
+}
+
+/* Прогресс-бар результатов */
+.result-progress-bar {
+    background: #fff;
+    padding: 20px;
+    margin: 0 16px 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+
+.progress-stats {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.stat-correct {
+    color: #50c878;
+}
+
+.stat-wrong {
+    color: #e91e63;
+}
+
+.stat-divider {
+    margin: 0 6px;
+}
+
+.stat-total {
+    color: #888;
+}
+
+/* Сообщение если тест не закончен */
+.not-completed {
+    text-align: center;
+    padding: 40px 20px;
+    color: #888;
+}
+
+.not-completed p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+/* Номера непройденных вопросов */
+.not-completed-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.question-number-circle {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    color: #888;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+}
+
+.question-number-circle:hover {
+    background: #4a90d9;
+    color: #fff;
+}
+
+/* Список ошибок */
+.errors-list {
+    padding: 0 16px 20px;
+}
+
+.error-item {
+    background: #fff;
+    padding: 16px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border-left: 4px solid #e91e63;
+}
+
+.error-number {
+    font-weight: 600;
+    font-size: 15px;
+    color: #e91e63;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.error-text {
+    font-size: 15px;
+    color: #333;
+    line-height: 1.5;
+    margin: 8px 0;
+}
+
+.error-link {
+    color: #4a90d9;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.error-link:hover {
+    text-decoration: underline;
+}
+
+/* Нет ошибок */
+.no-errors {
+    text-align: center;
+    padding: 40px 20px;
+    background: #f0f9f4;
+    border-radius: 12px;
+    color: #50c878;
+    font-size: 18px;
+    margin: 0 16px;
+}

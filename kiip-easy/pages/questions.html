@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Вопросы — KIIP Easy</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        .placeholder {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .placeholder h2 {
+            font-size: 24px;
+            margin-bottom: 12px;
+        }
+
+        .placeholder p {
+            color: #888;
+            margin-bottom: 20px;
+        }
+
+        .back-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #4a90d9;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="placeholder">
+            <h2>📝 Лента вопросов</h2>
+            <p>Страница в разработке</p>
+            <p>Блок: <span id="block-info">-</span></p>
+            <a href="test-question.html" class="back-button" style="background: #50c878;">🧪 Тестовый контейнер</a>
+            <a href="../index.html" class="back-button">← Назад</a>
+        </div>
+    </div>
+
+    <script>
+        // Показываем какой блок открыт
+        const urlParams = new URLSearchParams(window.location.search);
+        const block = urlParams.get('block');
+        document.getElementById('block-info').textContent = block ? 'Блок ' + block : 'не указан';
+    </script>
+</body>
+</html>

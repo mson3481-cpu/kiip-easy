@@ -1,0 +1,1409 @@
+{
+  "block": 1,
+  "title": "Блок 1: Главы 1-4",
+  "theme": "theme-blue",
+  "chapters": "1~4과",
+  "subtitle": "Знакомство, школа, офис",
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "type": "Лексика",
+      "question": "가: 직업이 뭐예요?<br>나: 저는 영어를 가르쳐요. 저는 ______이에요.",
+      "options": [
+        "영어 강사",
+        "공장 직원",
+        "주부",
+        "초등학생"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Какая у вас профессия? - Я преподаю английский. Я (преподаватель английского).<br><strong>Правило:</strong> Контекст \"Действие -> Профессия\". <strong>영어를</strong> <strong>가르쳐요</strong> (<strong>преподаю английский</strong>) указывает на <strong>영어</strong> <strong>강사</strong>.<br><br><strong><br><strong>Ловушка:</strong></strong> нужно знать перевод всех профессий из Главы 1.</p>"
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "제이슨 씨______ 미국 사람이에요.",
+      "options": [
+        "은",
+        "는",
+        "이",
+        "가"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Джейсон - американец.<br><strong>Правило:</strong> Выбор <strong>대조</strong>/<strong>주제</strong> <strong>보조사</strong> (<strong>은</strong>/<strong>는</strong>). Слово <strong>씨</strong> оканчивается на гласную (нет Падчима), поэтому выбираем '<strong>는</strong>'. <br><strong>Ловушка:</strong> студенты часто смотрят на '<strong>슨</strong>' (где есть падчим) и выбирают '<strong>은</strong>', забывая про уважительную частицу '<strong>씨</strong>'.</p>"
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 직업이 뭐예요?<br>나: 저는 회사원______.",
+      "options": [
+        "이에요",
+        "예요",
+        "은",
+        "는"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Какая у вас профессия? - Я офисный работник.<br><strong>Правило:</strong> Глагол-связка <strong>이다</strong>. Слово <strong>회사원</strong> оканчивается на согласную 'ㄴ' (есть Падчим), поэтому добавляем '<strong>이에요</strong>'.</p>"
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "type": "Культура",
+      "question": "(Ученик уходит, учитель остается в классе)<br>가: 선생님, ______.<br>나: 네, 잘 가요.",
+      "options": [
+        "안녕하세요",
+        "안녕히 계세요",
+        "안녕히 가세요",
+        "처음 뵙겠습니다"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Учитель, (до свидания / счастливо оставаться). - Да, иди с миром.<br><strong>Правило:</strong> Если вы уходите, а человек остается, нужно говорить <strong>안녕히</strong> <strong>계세요</strong> (Счастливо оставаться). <br><strong>Ловушка:</strong> <strong>안녕히</strong> <strong>가세요</strong> говорят тому, кто уходит.</p>"
+    },
+    {
+      "id": 5,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 이름이 뭐예요?<br>나: 저는 잠시드______.",
+      "options": [
+        "이에요",
+        "예요",
+        "은",
+        "는"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Как вас зовут? - Я Джамшид.<br><strong>Правило:</strong> <strong>이다</strong>. Имя <strong>잠시드</strong> оканчивается на гласную 'ㅡ' (<strong>드</strong> = ㄷ+ㅡ, нет Падчима). Значит, используем '<strong>예요</strong>'.</p>"
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "type": "Лексика",
+      "question": "가: 어느 ______ 사람이에요?<br>나: 방글라데시 사람이에요.",
+      "options": [
+        "이름",
+        "직업",
+        "나라",
+        "인사"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Из какой вы (страны)? - Я из Бангладеш.<br><strong>Правило:</strong> <strong>어느</strong> <strong>나라</strong> <strong>사람이에요</strong>? — устойчивое выражение из Главы 1. <br><strong>Ловушка:</strong> <strong>방글라데시</strong> — это страна (<strong>나라</strong>), а не профессия (<strong>직업</strong>) или имя (<strong>이름</strong>).</p>"
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "type": "Чтение",
+      "question": "맞는 것을 고르십시오.<br><br>안녕하세요? 저는 라흐만이에요. 방글라데시에서 왔어요. 저는 공장 직원이에요. 만나서 반가워요.",
+      "options": [
+        "라흐만 씨는 학생이에요.",
+        "라흐만 씨는 한국에서 왔어요.",
+        "라흐만 씨는 공장에서 일해요.",
+        "라흐만 씨는 선생님이에요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение.<br><strong>Правило:</strong> <strong>공장</strong> <strong>직원</strong> (работник завода) = <strong>공장에서</strong> <strong>일해요</strong> (работает на заводе). Ловушки в остальных: 1 и 4 меняют профессию, 2 меняет страну (Бангладеш на Корею).</p>"
+    },
+    {
+      "id": 8,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "저는 오늘 한국어 교실______ 한국어를 공부해요.",
+      "options": [
+        "에",
+        "에서",
+        "은",
+        "는"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Сегодня в классе корейского языка я изучаю корейский.<br><strong>Правило:</strong> Конфликт <strong>에</strong>/<strong>에서</strong>. <strong>공부하다</strong> — это активный глагол действия. Место, где происходит действие, требует частицы '<strong>에서</strong>'. <br><strong>Ловушка:</strong> '<strong>에</strong>' используется только для направления (<strong>가다</strong>) или существования (<strong>있다</strong>).</p>"
+    },
+    {
+      "id": 9,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 오늘 한국어 공부해요?<br>나: 아니요, 피곤해서 ______.",
+      "options": [
+        "공부 안 해요",
+        "공부 해요 안",
+        "안 공부 해요",
+        "공부를 안을 해요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Сегодня учишь корейский? - Нет, устал, поэтому не учу.<br><strong>Правило:</strong> Отрицание '<strong>안</strong>' с глаголами на '-<strong>하다</strong>'. Существительное отделяется от <strong>지다</strong>/<strong>하다</strong>, и '<strong>안</strong>' ставится строго перед '<strong>하다</strong>' -> <strong>공부</strong>(<strong>를</strong>) <strong>안</strong> <strong>해요</strong>.</p>"
+    },
+    {
+      "id": 10,
+      "chapter": 1,
+      "type": "Лексика",
+      "question": "머리가 너무 아파요. 약을 사고 싶어요. ______에 가요.",
+      "options": [
+        "식당",
+        "우체국",
+        "약국",
+        "은행"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Очень болит голова. Хочу купить лекарство. Иду в (аптеку).<br><strong>Правило:</strong> Паттерн \"Место-Действие\". <strong>약</strong> (лекарство) продается в <strong>약국</strong> (аптеке). Ловушки: <strong>식당</strong> (ресторан), <strong>우체국</strong> (почта), <strong>은행</strong> (банк).</p>"
+    },
+    {
+      "id": 11,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "지금은 (8:30)입니다.",
+      "options": [
+        "팔 시 삼십 분",
+        "여덟 시 서른 분",
+        "여덟 시 삼십 분",
+        "팔 시 서른 분"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Сейчас 8:30.<br><strong>Правило:</strong> Смешение систем счисления. Часы (<strong>시</strong>) считаются исконно корейскими числами (<strong>여덟</strong>), а минуты (<strong>분</strong>) — китайскими (<strong>삼십</strong>). <br><strong>Ловушка:</strong> варианты 1, 2 и 4 используют неправильные системы.</p>"
+    },
+    {
+      "id": 12,
+      "chapter": 1,
+      "type": "Вежливость",
+      "question": "교실에 선생님이 ______.",
+      "options": [
+        "있어요",
+        "계세요",
+        "자요",
+        "먹어요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> В классе (находится) учитель.<br><strong>Правило:</strong> <strong>고유어</strong> <strong>대우법</strong> (Специальная вежливая лексика). Для старших (<strong>선생님</strong>) глагол <strong>있다</strong> (находиться) заменяется на <strong>계시다</strong>.</p>"
+    },
+    {
+      "id": 13,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 이 음식이 맛있어요. 어떻게 요리해요?<br>나: 고기하고 채소로 ______.",
+      "options": [
+        "만들으세요",
+        "만드세요",
+        "만들어요",
+        "만들세요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Эта еда вкусная. Как ее готовить? - (Сделайте) из мяса и овощей.<br><strong>Правило:</strong> Исключение на 'ㄹ'. Глагол <strong>만들다</strong>. При добавлении грамматики на 'ㅅ' (-(<strong>으</strong>)<strong>세요</strong>) буква 'ㄹ' выпадает -> <strong>만드세요</strong>. <br><strong>Ловушка:</strong> <strong>만들으세요</strong> — частая ошибка новичков.</p>"
+    },
+    {
+      "id": 14,
+      "chapter": 1,
+      "type": "Логика",
+      "question": "비가 ______ 우산을 샀어요.",
+      "options": [
+        "오는데",
+        "와서",
+        "오고",
+        "오지만"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> (Так как) пошел дождь, я купил зонт.<br><strong>Правило:</strong> Причинно-следственная связь. <strong>아</strong>/<strong>어서</strong> используется для указания причины (пошел дождь -> поэтому купил). <br><strong>Ловушка:</strong> -<strong>는데</strong> используется для фона, а не для прямой причины.</p>"
+    },
+    {
+      "id": 15,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 안젤라 씨는 어느 나라______ 왔어요?<br>나: 필리핀에서 왔어요.",
+      "options": [
+        "가",
+        "를",
+        "에서",
+        "에"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Из какой страны приехала Анджела? - Из Филиппин.<br><strong>Правило:</strong> Конструкция \"~<strong>에서</strong> <strong>왔어요</strong>\" (приехал ИЗ). <br><strong>Ловушка:</strong> <strong>에</strong> означает \"в\", <strong>에서</strong> означает \"из\" в контексте происхождения.</p>"
+    },
+    {
+      "id": 16,
+      "chapter": 1,
+      "type": "Культура",
+      "question": "(Встречаются впервые)<br>가: 안녕하세요? ______.<br>나: 네, 만나서 반갑습니다.",
+      "options": [
+        "안녕히 가세요",
+        "처음 뵙겠습니다",
+        "안녕히 계세요",
+        "고맙습니다"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Здравствуйте. (Рад впервые вас видеть). - Да, приятно познакомиться.<br><strong>Правило:</strong> Фраза <strong>처음</strong> <strong>뵙겠습니다</strong> используется только при первой встрече. Это базовый культурный концепт Главы 1.</p>"
+    },
+    {
+      "id": 17,
+      "chapter": 1,
+      "type": "Чтение",
+      "question": "맞는 것을 고르십시오.<br><br>안녕하세요? 제 이름은 이링이에요. 중국에서 왔어요. 저는 판매원이에요. 내일 친구하고 같이 한국어를 공부해요.",
+      "options": [
+        "이링 씨는 오늘 한국어를 공부해요.",
+        "이링 씨는 혼자 한국어를 공부해요.",
+        "이링 씨는 중국 사람이에요.",
+        "이링 씨는 공장 직원이에요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение.<br><strong>Правило:</strong> <strong>중국에서</strong> <strong>왔어요</strong> = <strong>중국</strong> <strong>사람이에요</strong> (Приехал из Китая = Китаец). Ловушки: 1 меняет <strong>내일</strong> на <strong>오늘</strong>. 2 меняет <strong>친구하고</strong> <strong>같이</strong> на <strong>혼자</strong> (один). 4 меняет <strong>판매원</strong> на <strong>공장</strong> <strong>직원</strong>.</p>"
+    },
+    {
+      "id": 18,
+      "chapter": 1,
+      "type": "Лексика",
+      "question": "가: 직업이 뭐예요?<br>나: 집에서 아이를 키우고 청소를 해요. 저는 ______이에요.",
+      "options": [
+        "주부",
+        "학생",
+        "회사원",
+        "선생님"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Какая у вас профессия? - Я воспитываю детей дома и убираюсь. Я (домохозяйка).<br><strong>Правило:</strong> Описание обязанностей <strong>주부</strong> (домохозяйка) из списка профессий Главы 1.</p>"
+    },
+    {
+      "id": 19,
+      "chapter": 1,
+      "type": "Вежливость",
+      "question": "할아버지께서 진지를 ______.",
+      "options": [
+        "먹어요",
+        "드세요",
+        "마셔요",
+        "자요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Дедушка (кушает) еду.<br><strong>Правило:</strong> Вежливый стиль. Существительное <strong>밥</strong> (еда) меняется на <strong>진지</strong>, а глагол <strong>먹다</strong> (есть) меняется на <strong>드시다</strong> (<strong>드세요</strong>).</p>"
+    },
+    {
+      "id": 20,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "주말에 친구를 만났어요. 커피숍______ 커피를 마셨어요.",
+      "options": [
+        "에",
+        "에서",
+        "이",
+        "가"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> На выходных встретился с другом. В кофейне пили кофе.<br><strong>Правило:</strong> <strong>마시다</strong> — активное действие. Место действия требует '<strong>에서</strong>'. <br><strong>Ловушка:</strong> '<strong>에</strong>' используется только со статичными глаголами.</p>"
+    },
+    {
+      "id": 21,
+      "chapter": 1,
+      "type": "Логика",
+      "question": "저는 필리핀 사람______ 한국 음식을 아주 좋아해요.",
+      "options": [
+        "인데",
+        "이어서",
+        "이고",
+        "이면"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Я филиппинец, (но/при этом) очень люблю корейскую еду.<br><strong>Правило:</strong> Существительное + <strong>인데</strong>. Используется для создания фона или легкого противопоставления. <br><strong>Ловушка:</strong> <strong>이어서</strong> означало бы причину (\"потому что я филиппинец, я люблю корейскую еду\" - нелогично).</p>"
+    },
+    {
+      "id": 22,
+      "chapter": 1,
+      "type": "Лексика",
+      "question": "고향에 있는 가족에게 소포를 보내고 싶어요. ______에 가야 해요.",
+      "options": [
+        "우체국",
+        "병원",
+        "은행",
+        "시장"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Хочу отправить посылку семье на родину. Нужно пойти на (почту).<br><strong>Правило:</strong> <strong>소포를</strong> <strong>보내다</strong> (отправлять посылку) всегда связано с <strong>우체국</strong> (почта).</p>"
+    },
+    {
+      "id": 23,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 고천 씨______ 주부예요?<br>나: 네, 저는 주부예요.",
+      "options": [
+        "은",
+        "는",
+        "을",
+        "를"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Гочон, вы домохозяйка? - Да, я домохозяйка.<br><strong>Правило:</strong> <strong>고천</strong> <strong>씨</strong> оканчивается на гласную '<strong>이</strong>' (<strong>씨</strong>), поэтому <strong>부조사</strong> '<strong>는</strong>'. (Смотрим на страницу 6 учебника).</p>"
+    },
+    {
+      "id": 24,
+      "chapter": 1,
+      "type": "Грамматика",
+      "question": "가: 주말에 회사에 가요?<br>나: 아니요, 주말에는 회사에 ______.",
+      "options": [
+        "안 가요",
+        "가요 안",
+        "안을 가요",
+        "가 안 요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> На выходных идете на работу? - Нет, на выходных на работу (не иду).<br><strong>Правило:</strong> Отрицание '<strong>안</strong>' ставится строго ПЕРЕД простыми глаголами (<strong>안</strong> <strong>가요</strong>).</p>"
+    },
+    {
+      "id": 25,
+      "chapter": 1,
+      "type": "Чтение",
+      "question": "맞는 것을 고르십시오.<br><br>안녕하세요? 저는 제이슨이에요. 미국 뉴욕에서 왔어요. 저는 영어 선생님이에요. 만나서 반가워요.",
+      "options": [
+        "제이슨 씨는 한국에서 왔어요.",
+        "제이슨 씨는 학생이에요.",
+        "제이슨 씨는 영어를 가르쳐요.",
+        "제이슨 씨는 한국어 선생님이에요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение.<br><strong>Правило:</strong> <strong>영어</strong> <strong>선생님</strong> (учитель английского) = <strong>영어를</strong> <strong>가르쳐요</strong> (преподает английский). Ловушки: 1 меняет <strong>미국</strong> на <strong>한국</strong>, 2 меняет <strong>선생님</strong> на <strong>학생</strong>, 4 меняет <strong>영어</strong> на <strong>한국어</strong>.</p>"
+    },
+    {
+      "id": 26,
+      "chapter": 2,
+      "type": "Лексика",
+      "question": "너무 피곤해요. 자고 싶어요. 어디에 가요?",
+      "options": [
+        "부엌",
+        "방 (침실)",
+        "화장실",
+        "교실"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Я очень устал. Хочу спать. Куда мне пойти? — В комнату (спальню).<br><strong>Правило:</strong> Паттерн \"Место-Действие\".<br><br><strong><br><strong>Ловушка:</strong></strong> Нужно связать действие \"<strong>자다</strong>\" (спать) с правильной локацией из предложенных.</p>"
+    },
+    {
+      "id": 27,
+      "chapter": 2,
+      "type": "Лексика",
+      "question": "손을 씻고 싶어요. 어디에 가요?",
+      "options": [
+        "거실",
+        "식탁",
+        "화장실",
+        "옷장"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Я хочу помыть руки. Куда мне пойти? — В туалет (ванную).<br><strong>Правило:</strong> Паттерн \"Место-Действие\".<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>식탁</strong> (обеденный стол) и <strong>옷장</strong> (шкаф) — это предметы, а не комнаты. Ищем место для мытья рук.</p>"
+    },
+    {
+      "id": 28,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "교실에 칠판______ 있어요.",
+      "options": [
+        "가",
+        "이",
+        "를",
+        "은"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> В классе есть доска.<br><strong>Правило:</strong> <strong>주격</strong> <strong>조사</strong> (<strong>이</strong>/<strong>가</strong>). Если слово оканчивается на согласную (падчим), ставим '<strong>이</strong>'.<br><br><strong><br><strong>Ловушка:</strong></strong> Слово <strong>칠판</strong> заканчивается на падчим 'ㄴ', поэтому выбираем '<strong>이</strong>', а не '<strong>가</strong>'.</p>"
+    },
+    {
+      "id": 29,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "방에 의자______ 없어요.",
+      "options": [
+        "가",
+        "이",
+        "를",
+        "는"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> В комнате нет стула.<br><strong>Правило:</strong> <strong>주격</strong> <strong>조사</strong> (<strong>이</strong>/<strong>가</strong>). Если слово оканчивается на гласную, ставим '<strong>가</strong>'.<br><br><strong><br><strong>Ловушка:</strong></strong> Слово <strong>의자</strong> заканчивается на гласную 'ㅏ' (без падчима), поэтому нужно '<strong>가</strong>'.</p>"
+    },
+    {
+      "id": 30,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "텔레비전이 거실______ 있어요.",
+      "options": [
+        "에서",
+        "에",
+        "이",
+        "가"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Телевизор находится в гостиной.<br><strong>Правило:</strong> С глаголами состояния (<strong>있다</strong>/<strong>없다</strong>) всегда используется частица местонахождения '<strong>에</strong>'.<br><br><strong><br><strong>Ловушка:</strong></strong> Конфликт <strong>에</strong>/<strong>에서</strong>. '<strong>에서</strong>' используется только для активных действий, здесь же просто констатация наличия предмета.</p>"
+    },
+    {
+      "id": 31,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "어머니가 부엌______ 요리를 하세요.",
+      "options": [
+        "에",
+        "에서",
+        "이",
+        "가"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Мама готовит еду на кухне.<br><strong>Правило:</strong> С глаголами активного действия (<strong>요리하다</strong>) используется частица '<strong>에서</strong>'.<br><br><strong><br><strong>Ловушка:</strong></strong> В отличие от предыдущего вопроса, здесь происходит действие. Выбрать '<strong>에</strong>' будет ошибкой.</p>"
+    },
+    {
+      "id": 32,
+      "chapter": 2,
+      "type": "Вежливость",
+      "question": "선생님이 교실에 ______.",
+      "options": [
+        "있어요",
+        "계세요",
+        "있으세요",
+        "자요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Учитель находится в классе.<br><strong>Правило:</strong> <strong>주체</strong> <strong>높임법</strong> (Вежливый стиль). Для старших по статусу (<strong>선생님</strong>) глагол <strong>있다</strong> (находиться) меняется на <strong>계시다</strong>.<br><br><strong><br><strong>Ловушка:</strong></strong> Форма '<strong>있으세요</strong>' существует, но означает \"иметь что-то\", а для значения \"находиться\" используется только '<strong>계세요</strong>'.</p>"
+    },
+    {
+      "id": 33,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "저는 주말에 방을 청소 ______.",
+      "options": [
+        "안 해요",
+        "해요 안",
+        "안 청소해요",
+        "청소해요 안"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> На выходных я не убираюсь в комнате.<br><strong>Правило:</strong> Отрицание '<strong>안</strong>'. Для глаголов на -<strong>하다</strong> (<strong>청소하다</strong>) частица '<strong>안</strong>' ставится строго перед '<strong>하다</strong>'.<br><br><strong><br><strong>Ловушка:</strong></strong> Вариант '<strong>안</strong> <strong>청소해요</strong>' — типичная ошибка иностранцев. Правильно: Существительное + <strong>안</strong> + <strong>해요</strong>.</p>"
+    },
+    {
+      "id": 34,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "할아버지가 거실에서 나무로 책상을 ______.",
+      "options": [
+        "만들어요",
+        "만드세요",
+        "만들으세요",
+        "만드어요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Дедушка делает стол из дерева в гостиной.<br><strong>Правило:</strong> Исключение на 'ㄹ' + Вежливый стиль (-<strong>으시</strong>-). При добавлении -<strong>으세요</strong> к глаголу <strong>만들다</strong>, буква 'ㄹ' выпадает.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>로</strong> <strong>불규칙</strong> (Исключение ㄹ). Нельзя сказать '<strong>만들으세요</strong>', 'ㄹ' должна исчезнуть -> <strong>만드세요</strong>.</p>"
+    },
+    {
+      "id": 35,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "지금은 ______입니다. 한국어 수업을 시작합니다.",
+      "options": [
+        "네 시 삼십 분",
+        "사 시 서른 분",
+        "네 시 서른 분",
+        "사 시 삼십 분"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> Сейчас 4:30. Начинаем урок корейского.<br><strong>Правило:</strong> Чтение времени. Часы читаются исконно корейскими (<strong>네</strong> <strong>시</strong>), а минуты — китайскими (<strong>삼십</strong> <strong>분</strong>).<br><br><strong><br><strong>Ловушка:</strong></strong> Смешивание систем счисления. Нужно четко помнить: <strong>시</strong> = корейские, <strong>분</strong> = китайские.</p>"
+    },
+    {
+      "id": 36,
+      "chapter": 2,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 맞는 것을 고르세요.<br><br>[방 있어요! 방 1, 거실, 화장실. 방에 침대가 있어요. 책상이 있어요. 하지만 옷장이 없어요.]",
+      "options": [
+        "방에 옷장이 있어요.",
+        "거실이 없어요.",
+        "방에 침대하고 책상이 있어요.",
+        "방이 두 개 있어요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Прочитайте и выберите верное:[Сдается комната! 1 комната, гостиная, туалет. В комнате есть кровать и стол. Но нет шкафа.] — В комнате есть кровать и стол.<br><strong>Правило:</strong> Поиск деталей в тексте.<br><br><strong><br><strong>Ловушка:</strong></strong> В ложных вариантах изменена одна деталь: <strong>옷장이</strong> '<strong>없어요</strong>' (а не <strong>있어요</strong>), <strong>방이</strong> '1<strong>개</strong>' (а не <strong>두</strong> <strong>개</strong>).</p>"
+    },
+    {
+      "id": 37,
+      "chapter": 2,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 맞는 것을 고르세요.<br><br>[여기는 우리 집입니다. 거실에 텔레비전과 소파가 있습니다. 부엌에 식탁이 있습니다. 하지만 냉장고가 없습니다. 저는 오늘 혼자 집에서 쉽니다.]",
+      "options": [
+        "부엌에 냉장고가 있습니다.",
+        "가족하고 같이 집에서 쉽니다.",
+        "거실에 텔레비전이 있습니다.",
+        "방에 소파가 있습니다."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong>[Это мой дом. В гостиной телевизор и диван. На кухне стол. Но нет холодильника. Сегодня я отдыхаю дома один.] — В гостиной есть телевизор.<br><strong>Правило:</strong> Внимательность к деталям и отрицаниям.<br><br><strong><br><strong>Ловушка:</strong></strong> В тексте сказано <strong>혼자</strong> (один), а в варианте 2 — <strong>가족하고</strong> <strong>같이</strong> (с семьей). Софа находится в гостиной, а не в <strong>방</strong> (комнате).</p>"
+    },
+    {
+      "id": 38,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "방에 침대는 ______ 옷장은 없어요.",
+      "options": [
+        "있는데",
+        "있어서",
+        "있고",
+        "있으면"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> В комнате кровать есть, а шкафа нет.<br><strong>Правило:</strong> Соединительное окончание -<strong>는데</strong> используется для противопоставления двух фактов (есть, НО нет).<br><br><strong><br><strong>Ловушка:</strong></strong> Нужно увидеть контраст (<strong>침대는</strong>... <strong>옷장은</strong>...). -<strong>아서</strong> (причина) или -<strong>고</strong> (простое перечисление) здесь не подходят по логике.</p>"
+    },
+    {
+      "id": 39,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "집에 에어컨이 ______ 너무 더워요.",
+      "options": [
+        "없는데",
+        "없어서",
+        "없고",
+        "없지만"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Дома нет кондиционера, поэтому очень жарко.<br><strong>Правило:</strong> Окончание -<strong>아서</strong>/<strong>어서</strong> используется для выражения причины (жарко ПОЧЕМУ? потому что нет кондиционера).<br><br><strong><br><strong>Ловушка:</strong></strong> Логика причины и следствия. <strong>기</strong> <strong>때문에</strong> на этом уровне еще не проходят, <strong>아</strong>/<strong>어서</strong> — идеальный выбор.</p>"
+    },
+    {
+      "id": 40,
+      "chapter": 2,
+      "type": "Культура",
+      "question": "한국 사람의 이름은 보통 세 글자예요. '박민수'라는 사람의 성(Family name)은 무엇입니까?",
+      "options": [
+        "박",
+        "민",
+        "수",
+        "민수"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> Корейские имена обычно состоят из 3 слогов. Какая фамилия у человека по имени 'Пак Мин Су'? — Пак.<br><strong>Правило:</strong> Знание корейской культуры имен. Первый слог — это <strong>성</strong> (фамилия).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>이름</strong> (имя) — это <strong>민수</strong>, а <strong>성</strong> (фамилия) — это <strong>박</strong>. Нужно не перепутать эти понятия.</p>"
+    },
+    {
+      "id": 41,
+      "chapter": 2,
+      "type": "Культура",
+      "question": "한국에서 사람을 처음 만나면 어떻게 부릅니까?",
+      "options": [
+        "박민수",
+        "민수",
+        "박민수 씨",
+        "박 씨"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Как обращаются к человеку в Корее при первой встрече? — Пак Мин Су сси.<br><strong>Правило:</strong> Уважительное обращение '<strong>씨</strong>' добавляется к полному имени или только к имени, но не к одной фамилии.<br><br><strong><br><strong>Ловушка:</strong></strong> Назвать просто по имени (<strong>민수</strong>) невежливо, а '<strong>박</strong> <strong>씨</strong>' звучит грубо по отношению к малознакомому человеку.</p>"
+    },
+    {
+      "id": 42,
+      "chapter": 2,
+      "type": "Лексика",
+      "question": "한국어를 공부해요. 공책에 ______(으)로 글씨를 써요.",
+      "options": [
+        "거울",
+        "볼펜",
+        "수건",
+        "휴지"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Я изучаю корейский. Я пишу в тетради шариковой ручкой.<br><strong>Правило:</strong> Лексическая сочетаемость (<strong>연어</strong>). <strong>글씨를</strong> <strong>쓰다</strong> (писать буквы) делается с помощью <strong>볼펜</strong> (ручки).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>거울</strong> (зеркало) или <strong>수건</strong> (полотенце) не подходят по смыслу к глаголу \"писать\".</p>"
+    },
+    {
+      "id": 43,
+      "chapter": 2,
+      "type": "Лексика",
+      "question": "비가 와요. 밖에 나갈 때 ______이/가 필요해요.",
+      "options": [
+        "우산",
+        "모자",
+        "시계",
+        "가방"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> Идет дождь. Когда выходишь на улицу, нужен зонт.<br><strong>Правило:</strong> Лексика по контексту. <strong>비가</strong> <strong>오다</strong> (идет дождь) -> <strong>우산</strong> (зонт).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>모자</strong> (шляпа) может защитить от солнца, но при дожде ключевое слово всегда <strong>우산</strong>.</p>"
+    },
+    {
+      "id": 44,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "가방______ 지갑______ 있어요.",
+      "options": [
+        "가, 이",
+        "에, 이",
+        "이, 에",
+        "에, 가"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> В сумке есть кошелек.<br><strong>Правило:</strong> Комбинирование частиц. Место + <strong>에</strong>, Предмет (с падчимом) + <strong>이</strong>.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>지갑</strong> заканчивается на 'ㅂ' (падчим), поэтому <strong>이</strong>. <strong>가방</strong> — это место, где находится предмет, поэтому <strong>에</strong>.</p>"
+    },
+    {
+      "id": 45,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "방에 책상이 있어요. ______ 옷장이 없어요.",
+      "options": [
+        "그리고",
+        "하지만",
+        "그래서",
+        "왜냐하면"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> В комнате есть стол. Но нет шкафа.<br><strong>Правило:</strong> Союз <strong>하지만</strong> (но) используется для противопоставления предложений.<br><br><strong><br><strong>Ловушка:</strong></strong> В первом предложении <strong>있어요</strong> (положительное), во втором <strong>없어요</strong> (отрицательное). <strong>대조</strong> (контраст) требует <strong>하지만</strong>.</p>"
+    },
+    {
+      "id": 46,
+      "chapter": 2,
+      "type": "Грамматика",
+      "question": "부엌에 냉장고가 있어요. ______ 식탁도 있어요.",
+      "options": [
+        "그리고",
+        "하지만",
+        "그래서",
+        "그러면"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> На кухне есть холодильник. И обеденный стол тоже есть.<br><strong>Правило:</strong> Союз <strong>그리고</strong> (и, а также) используется для добавления информации.<br><br><strong><br><strong>Ловушка:</strong></strong> Частица '<strong>도</strong>' (тоже) во втором предложении подсказывает, что идет перечисление, а не противопоставление.</p>"
+    },
+    {
+      "id": 47,
+      "chapter": 2,
+      "type": "Произношение",
+      "question": "'없어요'의 바른 발음은 무엇입니까?",
+      "options": [
+        "[업어요]",
+        "[업써요]",
+        "[없어요]",
+        "[어써요]"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Какое правильное произношение у слова '<strong>없어요</strong>'? — [<strong>업써요</strong>].<br><strong>Правило:</strong> <strong>연음</strong> (Связывание звуков) + <strong>경음화</strong>. Двойной падчим ㅄ: 'ㅂ' остается внизу (читается как [<strong>업</strong>]), а 'ㅅ' переходит к '<strong>어</strong>' и удваивается [<strong>써</strong>].<br><br><strong><br><strong>Ловушка:</strong></strong> Читать как пишется [<strong>없어요</strong>] — грубая ошибка.</p>"
+    },
+    {
+      "id": 48,
+      "chapter": 2,
+      "type": "Произношение",
+      "question": "'교실에'의 바른 발음은 무엇입니까?",
+      "options": [
+        "[교실에]",
+        "[교시레]",
+        "[교실레]",
+        "[교시에]"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Какое правильное произношение у слова '<strong>교실에</strong>'? —[<strong>교시레</strong>].<br><strong>Правило:</strong> <strong>연음</strong> (Связывание звуков). Согласная 'ㄹ' из падчима переходит на место пустой согласной 'ㅇ' в следующем слоге.<br><br><strong><br><strong>Ловушка:</strong></strong> Вариант [<strong>교실레</strong>] ошибочен, так как 'ㄹ' не удваивается, а просто переносится.</p>"
+    },
+    {
+      "id": 49,
+      "chapter": 2,
+      "type": "Диалог",
+      "question": "가: 여기는 ______예요?<br>나: 기숙사예요.",
+      "options": [
+        "누구",
+        "어디",
+        "뭐",
+        "언제"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Где это (Что это за место)? Б: Это общежитие.<br><strong>Правило:</strong> Вопросительные слова. <strong>기숙사</strong> (общежитие) — это место, поэтому спрашиваем <strong>어디</strong> (где).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>뭐</strong> (что) используется для предметов (<strong>이게</strong> <strong>뭐예요</strong>?), <strong>어디</strong> — для мест (<strong>여기는</strong> <strong>어디예요</strong>?).</p>"
+    },
+    {
+      "id": 50,
+      "chapter": 2,
+      "type": "Диалог",
+      "question": "가: 교실에 ______가 있어요?<br>나: 칠판이 있어요.",
+      "options": [
+        "누구",
+        "어디",
+        "뭐",
+        "언제"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> А: Что есть в классе? Б: Есть доска.<br><strong>Правило:</strong> Вопросительные слова. <strong>칠판</strong> (доска) — это предмет, поэтому спрашиваем <strong>뭐</strong> (что).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>가</strong> <strong>기숙사에</strong> <strong>뭐가</strong> <strong>있어요</strong>? (Что есть в общежитии?). <strong>뭐</strong> <strong>지</strong> <strong>줄임말</strong> (сокращение от <strong>무엇</strong>). С частицей <strong>가</strong> пишется как <strong>뭐가</strong>.</p>"
+    },
+    {
+      "id": 51,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "가: 이 사과가 ______?<br>나: 아니요, 50,000원이에요. 아주 비싸요.",
+      "options": [
+        "싸요",
+        "작아요",
+        "많아요",
+        "예뻐요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Эти яблоки (дешевые)? Б: Нет, они стоят 50,000 вон. Очень дорогие.<br><strong>Правило:</strong> Контекст цены требует антонима к слову <strong>비싸다</strong> (дорогой).<br><br><strong><br><strong>Ловушка:</strong></strong> Нужно было посмотреть на цену (50,000 вон) и слово <strong>비싸요</strong> в ответе, чтобы выбрать противоположное по смыслу <strong>싸다</strong> (дешевый).</p>"
+    },
+    {
+      "id": 52,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "가: 지금 어디에 가요?<br>나: 옷이 없어요. 백화점에 ______ 가요.",
+      "options": [
+        "옷을 사러",
+        "책을 읽으러",
+        "커피를 마시러",
+        "고향 음식을 요리하러"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Куда ты сейчас идешь? Б: У меня нет одежды. Иду в универмаг (покупать одежду).<br><strong>Правило:</strong> Паттерн \"Место-Действие\".<br><br><strong><br><strong>Ловушка:</strong></strong> Подсказка кроется во фразе \"<strong>옷이</strong> <strong>없어요</strong>\" (нет одежды). В универмаге (<strong>백화점</strong>) логично покупать одежду (<strong>옷을</strong> <strong>사다</strong>).</p>"
+    },
+    {
+      "id": 53,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "제이슨 씨가 빵______ 먹어요.",
+      "options": [
+        "이",
+        "가",
+        "을",
+        "를"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Джейсон ест хлеб.<br><strong>Правило:</strong> Винительный падеж (<strong>을</strong>/<strong>를</strong>) для объекта действия.<br><br><strong><br><strong>Ловушка:</strong></strong> Проверка \"Падчима\". Слово <strong>빵</strong> (хлеб) оканчивается на согласную (есть падчим 'ㅇ'), поэтому строго выбираем <strong>을</strong>.</p>"
+    },
+    {
+      "id": 54,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 한국어 공부가 어때요?<br>나: 조금 ______.",
+      "options": [
+        "어렵어요",
+        "어려워요",
+        "어려와요",
+        "어렵아요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Как тебе изучение корейского? Б: Немного сложно.<br><strong>Правило:</strong> Исключение на 'ㅂ'. При добавлении <strong>아</strong>/<strong>어요</strong> буква 'ㅂ' меняется на '<strong>우</strong>' (<strong>우</strong> + <strong>어요</strong> = <strong>워요</strong>).<br><br><strong><br><strong>Ловушка:</strong></strong> Вариант 1 — частая ошибка новичков, которые забывают об исключении и просто добавляют <strong>어요</strong>.</p>"
+    },
+    {
+      "id": 55,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 어디______ 한국어를 공부해요?<br>나: 도서관______ 공부해요.",
+      "options": [
+        "에 / 에",
+        "에서 / 에서",
+        "에 / 에서",
+        "에서 / 에"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Где ты учишь корейский? Б: Учу в библиотеке.<br><strong>Правило:</strong> Частица <strong>에서</strong> используется с глаголами активного действия (<strong>공부하다</strong>).<br><br><strong><br><strong>Ловушка:</strong></strong> Конфликт <strong>에</strong>/<strong>에서</strong>. <strong>에</strong> используется только с глаголами движения (<strong>가다</strong>) или состояния (<strong>있다</strong>). <strong>대화</strong> (диалог) требует <strong>에서</strong> в обоих случаях.</p>"
+    },
+    {
+      "id": 56,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 오늘 운동해요?<br>나: 아니요, 오늘 ______.",
+      "options": [
+        "안 운동해요",
+        "운동 안 해요",
+        "운동해요 안",
+        "안 운동 안 해요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Ты сегодня тренируешься? Б: Нет, сегодня не тренируюсь.<br><strong>Правило:</strong> Для глаголов на -<strong>하다</strong> (Существительное + <strong>하다</strong>) отрицание '<strong>안</strong>' ставится ПЕРЕД <strong>하다</strong>.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>안</strong> <strong>운동해요</strong> — это калька с русского \"не тренируюсь\". В корейском нужно разбить глагол: <strong>운동</strong>(<strong>을</strong>) <strong>안</strong> <strong>해요</strong>.</p>"
+    },
+    {
+      "id": 57,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "할아버지______ 거실에서 텔레비전을 ______.",
+      "options": [
+        "가 / 봐요",
+        "께서 / 봐요",
+        "께서 / 보십니다",
+        "가 / 보십니다"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Дедушка смотрит телевизор в гостиной.<br><strong>Правило:</strong> Вежливый стиль для старших.<br><br><strong><br><strong>Ловушка:</strong></strong> Если подлежащее — старший (<strong>할아버지</strong>), именительный падеж <strong>이</strong>/<strong>가</strong> меняется на <strong>께서</strong>, а к глаголу обязательно добавляется суффикс уважения -<strong>시</strong>- (<strong>보십니다</strong> / <strong>보셔요</strong>).</p>"
+    },
+    {
+      "id": 58,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "지금은 8시 45분입니다.",
+      "options": [
+        "팔 시 사십오 분",
+        "여덟 시 마흔다섯 분",
+        "여덟 시 사십오 분",
+        "팔 시 마흔다섯 분"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Сейчас 8 часов 45 минут.<br><strong>Правило:</strong> Смешение систем счисления.<br><br><strong><br><strong>Ловушка:</strong></strong> Часы всегда считаются корейскими числительными (<strong>여덟</strong>), а минуты — китайскими (<strong>사십오</strong>). Варианты 1, 2 и 4 намеренно путают эти системы.</p>"
+    },
+    {
+      "id": 59,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "선생님, 이 한국 음식을 ______. 아주 맛있어요.",
+      "options": [
+        "만들으세요",
+        "만드세요",
+        "만들으십시오",
+        "만드러요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> Учитель, приготовьте (сделайте) это корейское блюдо. Оно очень вкусное.<br><strong>Правило:</strong> Исключение на 'ㄹ'. При добавлении грамматики, начинающейся на 'ㄴ, ㅂ, ㅅ' (включая -(<strong>으</strong>)<strong>세요</strong>), буква 'ㄹ' выпадает.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>만들다</strong> + (<strong>으</strong>)<strong>세요</strong> = <strong>만드세요</strong>. Вариант 1 — типичная ошибка без учета выпадения 'ㄹ'.</p>"
+    },
+    {
+      "id": 60,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 왜 빵을 먹어요?<br>나: 배가 ______ 빵을 먹어요.",
+      "options": [
+        "고파서",
+        "고픈데",
+        "고프고",
+        "고프지만"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Почему ты ешь хлеб? Б: Я голоден, поэтому ем хлеб.<br><strong>Правило:</strong> Грамматика -<strong>아서</strong>/<strong>어서</strong> указывает на причину.<br><br><strong><br><strong>Ловушка:</strong></strong> Вопрос \"<strong>왜</strong>?\" (Почему?) всегда требует ответа с причиной (-<strong>아서</strong>/<strong>어서</strong> или -(<strong>으</strong>)<strong>니까</strong>). <strong>배가</strong> <strong>고프다</strong> + <strong>아서</strong> = <strong>배가</strong> <strong>고파서</strong> (исключение на ㅡ).</p>"
+    },
+    {
+      "id": 61,
+      "chapter": 3,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 맞는 것을 고르십시오.<br>\"교실에 학생들이 있어요. 후엔 씨가 책을 읽어요. 책이 재미있어요. 안젤라 씨가 전화해요. 라민 씨가 물을 마셔요. 라흐만 씨가 빵을 먹어요.\"",
+      "options": [
+        "후엔 씨는 빵을 먹어요.",
+        "안젤라 씨는 책을 읽어요.",
+        "라민 씨는 물을 마셔요.",
+        "라흐만 씨는 전화해요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Прочитайте текст и выберите верное. \"В классе ученики. Хуэн читает... Анджела звонит... Рамин пьет воду... Рахман ест хлеб.\"<br><strong>Правило:</strong> Поиск деталей в тексте.<br><br><strong><br><strong>Ловушка:</strong></strong> В ложных вариантах изменено ровно одно действие (Хуэн читает, а не ест; Анджела звонит, а не читает). Верно только 3.</p>"
+    },
+    {
+      "id": 62,
+      "chapter": 3,
+      "type": "Культура",
+      "question": "나이가 많은 사람이나 윗사람에게 사과할 때 어떻게 말해요?",
+      "options": [
+        "고맙습니다",
+        "감사합니다",
+        "미안합니다",
+        "죄송합니다"
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Перевод:</strong> Как извиниться перед пожилым человеком или старшим по статусу?<br><strong>Правило:</strong> Корейский этикет (стр. 40).<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>미안합니다</strong> и <strong>죄송합니다</strong> — оба означают \"извините\". Но для старших (<strong>윗사람</strong>) используется только более вежливая форма — <strong>죄송합니다</strong>.</p>"
+    },
+    {
+      "id": 63,
+      "chapter": 3,
+      "type": "Произношение",
+      "question": "다음 단어의 발음으로 맞는 것을 고르십시오.<br>[ 재미있어요 ]",
+      "options": [
+        "[재미이써요]",
+        "[재미있어요]",
+        "[재미이서요]",
+        "[재미읻어요]"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> Выберите правильное произношение слова [ <strong>재미있어요</strong> ].<br><strong>Правило:</strong> Ассимиляция и перенос падчима (стр. 10).<br><br><strong><br><strong>Ловушка:</strong></strong> Двойная согласная 'ㅆ' в падчиме переносится к следующей гласной '<strong>어</strong>', образуя твердый звук [<strong>써</strong>].</p>"
+    },
+    {
+      "id": 64,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "가: 오늘 날씨가 어때요?<br>나: 눈이 와요. 아주 ______.",
+      "options": [
+        "더워요",
+        "추워요",
+        "바빠요",
+        "예뻐요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Какая сегодня погода? Б: Идет снег. Очень (холодно).<br><strong>Правило:</strong> Лексика состояния.<br><br><strong><br><strong>Ловушка:</strong></strong> Контекст \"<strong>눈이</strong> <strong>와요</strong>\" (идет снег) жестко привязан к прилагательному <strong>춥다</strong> (холодный). <strong>더워요</strong> (жарко) здесь будет логической ошибкой.</p>"
+    },
+    {
+      "id": 65,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 무엇______ 재미있어요?<br>나: 한국 영화______ 재미있어요.",
+      "options": [
+        "이 / 가",
+        "을 / 를",
+        "이 / 를",
+        "을 / 가"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Что интересно? Б: Корейские фильмы интересные.<br><strong>Правило:</strong> С прилагательными (<strong>재미있다</strong>, <strong>예쁘다</strong>, <strong>많다</strong>) используется именительный падеж <strong>이</strong>/<strong>가</strong>.<br><br><strong><br><strong>Ловушка:</strong></strong> Винительный падеж (<strong>을</strong>/<strong>를</strong>) ставится только перед глаголами действия (<strong>보다</strong>, <strong>먹다</strong>). <strong>대화</strong> требует <strong>이</strong>/<strong>가</strong>.</p>"
+    },
+    {
+      "id": 66,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "가: 주말에 뭐 해요?<br>나: 피곤해요. 집에서 계속 ______.",
+      "options": [
+        "자요",
+        "일해요",
+        "운동해요",
+        "친구를 만나요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Что делаешь на выходных? Б: Я устал. Буду постоянно (спать) дома.<br><strong>Правило:</strong> Логика действий.<br><br><strong><br><strong>Ловушка:</strong></strong> Ключевое слово \"<strong>피곤해요</strong>\" (устал). Единственное логичное действие при усталости из предложенных — <strong>자다</strong> (спать).</p>"
+    },
+    {
+      "id": 67,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 요즘 ______?<br>나: 네, 숙제가 많아요.",
+      "options": [
+        "바쁘어요",
+        "바빠요",
+        "바뻐요",
+        "바쁘요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Ты сейчас занят? Б: Да, много домашки.<br><strong>Правило:</strong> Исключение на 'ㅡ'. В слове <strong>바쁘다</strong> гласная 'ㅡ' выпадает.<br><br><strong><br><strong>Ловушка:</strong></strong> Смотрим на предыдущую гласную 'ㅏ' (в слоге <strong>바</strong>). Если там 'ㅏ' или 'ㅗ', добавляем <strong>아요</strong>. Получается <strong>바빠요</strong>.</p>"
+    },
+    {
+      "id": 68,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 밖에 비가 ______ 우산이 없어요.",
+      "options": [
+        "오는데",
+        "와서",
+        "오고",
+        "오지만"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> На улице идет дождь, (а/но) у меня нет зонта.<br><strong>Правило:</strong> -<strong>는데</strong> используется для введения контекста ситуации или мягкого противопоставления.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>와서</strong> (потому что) здесь не подходит логически (\"У меня нет зонта, потому что идет дождь\" — бессмыслица).</p>"
+    },
+    {
+      "id": 69,
+      "chapter": 3,
+      "type": "Чтение",
+      "question": "다음 문장 중 틀린 것을 고르십시오.",
+      "options": [
+        "저는 사과를 먹어요.",
+        "한국어는 쉬워요. 영어는 어려워요.",
+        "고향 음식을 요리해요.",
+        "텔레비전이 봐요."
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Перевод:</strong> Выберите неверное предложение.<br><strong>Правило:</strong> Согласование падежей и глаголов.<br><br><strong><br><strong>Ловушка:</strong></strong> Глагол <strong>보다</strong> (смотреть) — это активное действие, требующее винительного падежа <strong>을</strong>/<strong>를</strong>. Правильно: <strong>텔레비전을</strong> <strong>봐요</strong>. Вариант 4 содержит ошибку.</p>"
+    },
+    {
+      "id": 70,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "가: 이 ______(이)가 작아요?<br>나: 아니요, 커요.",
+      "options": [
+        "농구공",
+        "사과",
+        "구두",
+        "가방"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Этот (баскетбольный мяч) маленький? Б: Нет, большой.<br><strong>Правило:</strong> Знание визуального словаря учебника (стр. 34).<br><br><strong><br><strong>Ловушка:</strong></strong> В учебнике <strong>크다</strong>/<strong>작다</strong> (большой/маленький) иллюстрируется именно баскетбольным и бейсбольным мячами (<strong>농구공</strong>).</p>"
+    },
+    {
+      "id": 71,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 주말에 친구를 어디______ 만나요?<br>나: 커피숍______ 만나요.",
+      "options": [
+        "에 / 에",
+        "에서 / 에서",
+        "에 / 에서",
+        "에서 / 에"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Перевод:</strong> А: Где ты встречаешься с другом на выходных? Б: Встречаемся в кофейне.<br><strong>Правило:</strong> <strong>파티클</strong> <strong>에서</strong> для места действия.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>만나다</strong> (встречать) — это активное действие. Многие студенты путают и ставят <strong>에</strong>. Правильно: <strong>에서</strong> в обоих случаях.</p>"
+    },
+    {
+      "id": 72,
+      "chapter": 3,
+      "type": "Произношение",
+      "question": "다음 단어의 발음으로 맞는 것을 고르십시오.<br>[ 많아요 ]",
+      "options": [
+        "[만아요]",
+        "[많아요]",
+        "[마나요]",
+        "[만하요]"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Выберите правильное произношение слова [ <strong>많아요</strong> ].<br><strong>Правило:</strong> Чтение двойного падчима 'ㄶ' перед гласной.<br><br><strong><br><strong>Ловушка:</strong></strong> Буква 'ㅎ' становится немой (не читается), а 'ㄴ' переносится на следующий слог. Получается [<strong>마나요</strong>].</p>"
+    },
+    {
+      "id": 73,
+      "chapter": 3,
+      "type": "Лексика",
+      "question": "선생님께서 지금 점심을 ______.",
+      "options": [
+        "먹어요",
+        "먹으십니다",
+        "드십니다",
+        "잡수어요"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Перевод:</strong> Учитель сейчас обедает.<br><strong>Правило:</strong> Специальная гоноративная лексика.<br><br><strong><br><strong>Ловушка:</strong></strong> Для старших (<strong>선생님</strong>) нельзя использовать <strong>상식</strong> (обычные слова) <strong>먹다</strong> + <strong>시다</strong>. Глагол <strong>밥을</strong> <strong>먹다</strong> полностью меняется на <strong>드시다</strong> (или <strong>식사를</strong> <strong>하시다</strong>).</p>"
+    },
+    {
+      "id": 74,
+      "chapter": 3,
+      "type": "Грамматика",
+      "question": "가: 이 가방이 비싸요?<br>나: 아니요, ______. 싸요.",
+      "options": [
+        "안 비싸요",
+        "비싸요 안",
+        "비싸 안 해요",
+        "안 비싸 안 해요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Перевод:</strong> А: Эта сумка дорогая? Б: Нет, не дорогая. Дешевая.<br><strong>Правило:</strong> Отрицание '<strong>안</strong>' с прилагательными.<br><br><strong><br><strong>Ловушка:</strong></strong> <strong>비싸다</strong> — это прилагательное, а не глагол на -<strong>하다</strong> (как <strong>공부하다</strong>). Поэтому '<strong>안</strong>' ставится целиком перед словом: <strong>안</strong> <strong>비싸요</strong>.</p>"
+    },
+    {
+      "id": 75,
+      "chapter": 3,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 질문에 답하십시오.<br>\"저는 오늘 도서관에 가요. 도서관에서 한국어를 공부해요. 그리고 친구를 만나요. 친구하고 같이 밥을 먹어요. 아주 재미있어요.\"<br>이 사람은 오늘 무엇을 안 해요?",
+      "options": [
+        "한국어 공부",
+        "친구 만나기",
+        "밥 먹기",
+        "방 청소"
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Перевод:</strong> \"Я сегодня иду в библиотеку. Учу там корейский. Потом встречаюсь с другом. Мы вместе едим. Очень весело.\" Что этот человек сегодня НЕ делает?<br><strong>Правило:</strong> Внимательность к деталям текста.<br><br><strong><br><strong>Ловушка:</strong></strong> Вопрос с отрицанием (<strong>무엇을</strong> <strong>안</strong> <strong>해요</strong>?). В тексте упоминается учеба, друг и еда, но нет ни слова про уборку комнаты (<strong>방</strong> <strong>청소</strong>).</p>"
+    },
+    {
+      "id": 76,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "편지를 보내고 싶어요. 어디에 가요?",
+      "options": [
+        "약국",
+        "우체국",
+        "미용실",
+        "헬스장"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Я хочу отправить письмо. Куда мне пойти? <strong>О:</strong> На почту.<br>*<br><strong>Ловушка:</strong>* Проверка паттерна \"Место-Действие\". <strong>편지를</strong> <strong>보내다</strong> (отправлять письмо) всегда связано с <strong>우체국</strong> (почта).</p>"
+    },
+    {
+      "id": 77,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "가: 머리가 너무 아파요.<br>나: 그럼 빨리 ______에 가세요.",
+      "options": [
+        "병원",
+        "서점",
+        "빨래방",
+        "극장"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> - Очень болит голова. - Тогда быстрее идите в (больницу).<br>*<br><strong>Ловушка:</strong>* <strong>아프다</strong> (болеть) требует выбора медицинского учреждения (<strong>병원</strong> или <strong>약국</strong>).</p>"
+    },
+    {
+      "id": 78,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 이링 씨, 지금 어디______ 가요?<br>나: 학교______ 가요.",
+      "options": [
+        "에 / 에",
+        "에서 / 에서",
+        "에 / 에서",
+        "에서 / 에"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> - Ирин, ты сейчас куда идешь? - Иду в школу.<br>*Правило:* С глаголами направления (<strong>가다</strong>, <strong>오다</strong>) всегда используется частица <strong>에</strong>, а не <strong>에서</strong>.</p>"
+    },
+    {
+      "id": 79,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 제이슨 씨, 어디______ 책을 사요?<br>나: 서점______ 사요.",
+      "options": [
+        "에 / 에",
+        "에서 / 에서",
+        "에 / 에서",
+        "에서 / 에"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> - Джейсон, где ты покупаешь книги? - Покупаю в книжном.<br>*Правило:* <strong>사다</strong> (покупать) — это глагол активного действия. Место, где происходит действие, требует частицы <strong>에서</strong>.</p>"
+    },
+    {
+      "id": 80,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "우리 집 근처에 큰 마트______ 있어요.",
+      "options": [
+        "가",
+        "를",
+        "은",
+        "와"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Рядом с нашим домом есть большой март.<br>*Правило:* Конструкция <strong>명사이</strong>/<strong>가</strong> <strong>있다</strong>/<strong>없다</strong>. Слово <strong>마트</strong> не имеет падчима, но <strong>이</strong>/<strong>가</strong> — это ловушка на внимательность. <strong>마트</strong> оканчивается на гласную (<strong>트</strong>), поэтому <strong>가</strong>.</p>"
+    },
+    {
+      "id": 81,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "가: 주말에 친구하고 같이 영화를 봐요.<br>나: 와, 재미있겠어요. 어느 ______(으)로 가요?",
+      "options": [
+        "은행",
+        "피시방",
+        "극장",
+        "카페"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> - На выходных смотрю фильм с другом. - Вау, будет интересно. В какой (кинотеатр) пойдете?<br>*<br><strong>Ловушка:</strong>* <strong>영화를</strong> <strong>보다</strong> (смотреть фильм) = <strong>극장</strong> / <strong>영화관</strong>.</p>"
+    },
+    {
+      "id": 82,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "선생님______ 지금 식당______ 진지를 드세요.",
+      "options": [
+        "이 / 에",
+        "께서 / 에서",
+        "가 / 에",
+        "께서 / 에"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Учитель сейчас кушает в ресторане.<br>*Правило:* <strong>선생님</strong> требует вежливой частицы <strong>께서</strong>. <strong>드시다</strong> (кушать) — активное действие, поэтому <strong>에서</strong>. <strong>에</strong> — частая ошибка студентов.</p>"
+    },
+    {
+      "id": 83,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "저는 오늘 피시방에서 게임을 ______.",
+      "options": [
+        "안 해요",
+        "해요 안",
+        "안 게임해요",
+        "게임 안를 해요"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Я сегодня не играю в игры в компьютерном клубе.<br>*Правило:* Для глаголов на <strong>하다</strong> (<strong>게임</strong>(<strong>을</strong>) <strong>하다</strong>), отрицание <strong>안</strong> ставится строго ПЕРЕД <strong>하다</strong> -> <strong>게임을</strong> <strong>안</strong> <strong>해요</strong>.</p>"
+    },
+    {
+      "id": 84,
+      "chapter": 4,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 맞는 것을 고르십시오.<br>후엔 씨는 오늘 공원에 가요. 공원에서 운동을 해요. 후엔 씨 남편은 주말에 문화 센터에 가요. 문화 센터에서 기타를 배워요.",
+      "options": [
+        "후엔 씨는 오늘 문화 센터에 가요.",
+        "남편은 공원에서 기타를 쳐요.",
+        "후엔 씨는 공원에서 운동을 해요.",
+        "남편은 평일에 문화 센터에 가요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение. (Текст из учебника стр. 49).<br>*<br><strong>Ловушка:</strong>* В неверных вариантах изменена одна деталь: 1 (Хуэн идет в парк, а не в центр), 2 (Муж в центре, а не в парке), 4 (Муж ходит на выходных <strong>주말</strong>, а не в будни <strong>평일</strong>). Ответ 3 верный.</p>"
+    },
+    {
+      "id": 85,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "가: 옷이 너무 더러워요.<br>나: 그럼 ______에 가서 옷을 빠세요.",
+      "options": [
+        "빨래방",
+        "찜질방",
+        "노래방",
+        "미용실"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> - Одежда очень грязная. - Тогда идите в (прачечную) и постирайте.<br>*<br><strong>Ловушка:</strong>* Игра слов со словом <strong>방</strong> (комната). <strong>더럽다</strong> (грязный) и <strong>빨다</strong> (стирать) указывают на <strong>빨래방</strong>.</p>"
+    },
+    {
+      "id": 86,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "우리 내일 ______에 카페에서 만나요.",
+      "options": [
+        "두 시 삼십 분",
+        "이 시 삼십 분",
+        "두 시 서른 분",
+        "이 시 서른 분"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Давайте завтра встретимся в кафе в 2:30.<br>*Правило:* Часы (<strong>시</strong>) считаются корейскими числительными (<strong>두</strong>), а минуты (<strong>분</strong>) — китайскими (<strong>삼십</strong>).</p>"
+    },
+    {
+      "id": 87,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "어머니가 집에서 맛있는 빵을 ______.",
+      "options": [
+        "만들어요",
+        "만드러요",
+        "만드세요",
+        "만들으세요"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Мама дома делает вкусный хлеб.<br>*Правило:* <strong>어머니</strong> требует вежливого окончания -(<strong>으</strong>)<strong>세요</strong>. Глагол <strong>만들다</strong> имеет исключение на 'ㄹ'. Перед 'ㅅ' буква 'ㄹ' выпадает -> <strong>만드세요</strong>.</p>"
+    },
+    {
+      "id": 88,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "배가 너무 ______ 밥을 못 먹어요.",
+      "options": [
+        "아파서",
+        "아프는데",
+        "아프고",
+        "아프지만"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> Живот так болит, что не могу есть.<br>*Правило:* <strong>원인</strong> (причина). Так как живот болит (причина), я не могу есть (следствие). Используем -<strong>아서</strong>/<strong>어서</strong>. <strong>아프다</strong> -> <strong>아파서</strong> (исключение 'ㅡ').</p>"
+    },
+    {
+      "id": 89,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "가: 머리가 너무 길어요.<br>나: 내일 ______에 가서 머리를 자르세요.",
+      "options": [
+        "백화점",
+        "편의점",
+        "미용실",
+        "헬스장"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> - Волосы слишком длинные. - Завтра сходите в (парикмахерскую) и подстригитесь.<br>*<br><strong>Ловушка:</strong>* <strong>머리를</strong> <strong>자르다</strong> (стричь волосы) = <strong>미용실</strong>.</p>"
+    },
+    {
+      "id": 90,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 라흐만 씨, 오늘 회사 식당에서 밥______ 먹어요?<br>나: 아니요, 회사 근처에서 먹어요.",
+      "options": [
+        "이",
+        "가",
+        "은",
+        "을"
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Вопрос:</strong> - Рахман, ты сегодня ешь еду в столовой компании?<br>*Правило:* <strong>밥</strong> (еда) — это объект действия <strong>먹다</strong> (есть). Слово оканчивается на согласную (падчим ㅂ), поэтому <strong>을</strong>.</p>"
+    },
+    {
+      "id": 91,
+      "chapter": 4,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 맞는 것을 고르십시오.<br>한국에는 사람들이 쉴 수 있는 장소가 많아요. 사람들이 산책을 하거나 자전거를 타는 시민 공원이 있어요. 사람들은 쉼터에서 즐거운 시간을 보내요.",
+      "options": [
+        "한국에는 쉴 장소가 없어요.",
+        "시민 공원에서 자전거를 타요.",
+        "쉼터에서 산책을 할 수 없어요.",
+        "사람들은 공원에서 일해요."
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение. (Текст про зоны отдыха, стр. 50).<br>*<br><strong>Ловушка:</strong>* 1 (мест много, а не нет), 3 (в тексте не сказано, что нельзя), 4 (в парке отдыхают, а не работают). Ответ 2 прямо следует из текста.</p>"
+    },
+    {
+      "id": 92,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 주말에 보통 뭐 해요?<br>나: 저는 친구______ 마트에서 쇼핑해요.",
+      "options": [
+        "과",
+        "와",
+        "이",
+        "를"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> - Что обычно делаешь на выходных? - Я с другом делаю покупки в марте.<br>*Правило:* \"С кем-то\" = <strong>명사과</strong>/<strong>와</strong>. Слово <strong>친구</strong> оканчивается на гласную (нет падчима), поэтому <strong>와</strong>.</p>"
+    },
+    {
+      "id": 93,
+      "chapter": 4,
+      "type": "Произношение",
+      "question": "다음 중 발음이 맞는 것을 고르십시오.",
+      "options": [
+        "극장 [극짱]",
+        "식당 [식당]",
+        "학교 [학꾜]",
+        "1번, 3번 모두 맞아요"
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите правильное произношение.<br>*Правило:* <strong>아음화</strong> (Тенсоризация). После ㄱ, ㄷ, ㅂ согласные ㄱ, ㄷ, ㅂ, ㅅ, ㅈ удваиваются. <strong>극장</strong> -> [<strong>극짱</strong>], <strong>학교</strong> -> [<strong>학꾜</strong>]. <strong>식당</strong> должно быть [<strong>식땅</strong>]. Ответ 4.</p>"
+    },
+    {
+      "id": 94,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 부모님이 지금 고향에 ______?<br>나: 네, 고향 집에 ______.",
+      "options": [
+        "있어요 / 있어요",
+        "계세요 / 계세요",
+        "있어요 / 계세요",
+        "계세요 / 있어요"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> - Родители сейчас на родине? - Да, они в доме на родине.<br>*Правило:* <strong>부모님</strong> (родители) — старшие. Глагол <strong>있다</strong> в значении \"находиться\" меняется на гоноратив <strong>계시다</strong>.</p>"
+    },
+    {
+      "id": 95,
+      "chapter": 4,
+      "type": "Лексика",
+      "question": "가: 피곤해요. 따뜻한 물에 목욕하고 싶어요.<br>나: 그럼 ______에 가세요.",
+      "options": [
+        "찜질방",
+        "노래방",
+        "피시방",
+        "빨래방"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> - Я устал. Хочу искупаться в теплой воде. - Тогда идите в (сауну).<br>*<br><strong>Ловушка:</strong>* <strong>목욕하다</strong> (принимать ванну/мыться) и <strong>유식</strong> (отдых) = <strong>찜질방</strong>.</p>"
+    },
+    {
+      "id": 96,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 잠시드 씨, 지금 어디에 있어요?<br>나: 저는 지금 회사______ 있어요.",
+      "options": [
+        "에",
+        "에서",
+        "로",
+        "를"
+      ],
+      "correctAnswer": 1,
+      "explanation": "<p><strong>Вопрос:</strong> - Джамшид, ты сейчас где? - Я сейчас в компании.<br>*Правило:* <strong>사물</strong>/<strong>사람이</strong> <strong>있다</strong>/<strong>없다</strong> (находиться где-то). С глаголами <strong>있다</strong>/<strong>없다</strong> всегда используется <strong>에</strong>, даже если это место (<strong>회사</strong>). <strong>에서</strong> — грубая ошибка.</p>"
+    },
+    {
+      "id": 97,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 오늘 저녁에 고기를 ______?<br>나: 네, 좋아요. 식당에 가요.",
+      "options": [
+        "먹어요",
+        "먹으세요",
+        "먹을까요",
+        "먹었어요"
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> - Может, поедим мясо сегодня вечером? - Да, отлично. Пойдемте в ресторан.<br>*Правило:* Предложение совместного действия (Давай...?) выражается через -(<strong>으</strong>)ㄹ<strong>까요</strong>? <strong>고기를</strong> <strong>먹을까요</strong>?</p>"
+    },
+    {
+      "id": 98,
+      "chapter": 4,
+      "type": "Чтение",
+      "question": "다음 대화를 읽고 맞는 것을 고르십시오.<br>동료: 라흐만 씨, 어디에 가요?<br>라흐만: 식당에 가요.<br>동료: 오늘 회사 식당에서 밥을 먹어요?<br>라흐만: 아니요, 회사 근처에서 먹어요.",
+      "options": [
+        "라흐만 씨는 지금 집에 가요.",
+        "라흐만 씨는 회사 식당에서 밥을 먹어요.",
+        "라흐만 씨는 회사 밖에서 밥을 먹어요.",
+        "동료는 라흐만 씨하고 같이 밥을 먹어요."
+      ],
+      "correctAnswer": 3,
+      "explanation": "<p><strong>Вопрос:</strong> Выберите верное утверждение. (Диалог со стр. 48).<br>*<br><strong>Ловушка:</strong>* Рахман говорит \"<strong>회사</strong> <strong>근처에서</strong> <strong>먹어요</strong>\" (Ем около компании). Это значит, что он ест <strong>강</strong> <strong>밖</strong> (вне компании). Вариант 2 — прямая противоположность тексту.</p>"
+    },
+    {
+      "id": 99,
+      "chapter": 4,
+      "type": "Грамматика",
+      "question": "가: 어제 백화점에서 ______을/를 샀어요?<br>나: 바지를 샀어요.",
+      "options": [
+        "어디",
+        "누구",
+        "언제",
+        "무엇"
+      ],
+      "correctAnswer": 4,
+      "explanation": "<p><strong>Вопрос:</strong> - Что ты вчера купил в универмаге? - Купил штаны.<br>*Правило:* Вопросительное слово. <strong>바지</strong> (штаны) — это предмет, поэтому спрашиваем <strong>무엇</strong> (что).</p>"
+    },
+    {
+      "id": 100,
+      "chapter": 4,
+      "type": "Чтение",
+      "question": "다음 글을 읽고 질문에 답하십시오.<br>저는 토요일에 친구와 마트에 갑니다. 마트( ㉠ ) 과일과 고기를 삽니다. 일요일에는 집에 있습니다. 집( ㉡ ) 청소를 하고 쉽니다.<br><br>㉠과 ㉡에 들어갈 알맞은 말을 고르십시오.",
+      "options": [
+        "㉠ 에 / ㉡ 에",
+        "㉠ 에서 / ㉡ 에서",
+        "㉠ 에 / ㉡ 에서",
+        "㉠ 에서 / ㉡ 에"
+      ],
+      "correctAnswer": 2,
+      "explanation": "<p><strong>Вопрос:</strong> Вставьте правильные частицы в текст.<br>*<br><strong>Ловушка:</strong>* Это финальная проверка <strong>에</strong>/<strong>에서</strong>. <strong>사다</strong> (покупать) — действие -> <strong>마트에서</strong>. <strong>청소를</strong> <strong>하다</strong> (убираться) — действие -> <strong>집에서</strong>. Оба пропуска требуют <strong>에서</strong>.</p>"
+    }
+  ]
+}

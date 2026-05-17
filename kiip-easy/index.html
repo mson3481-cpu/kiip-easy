@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIIP Easy</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="manifest" href="manifest.json">
+    <style>
+        .test-pay-btn {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: #f0f0f0;
+            border: none;
+            padding: 5px 10px;
+            font-size: 11px;
+            color: #999;
+            cursor: pointer;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+        .test-pay-btn:hover {
+            background: #e0e0e0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <a href="pages/payment.html" class="test-pay-btn">PAY</a>
+    <div class="container">
+        <header class="header">
+            <h1 class="logo">KIIP Level 1</h1>
+            <p class="subtitle">18 глав • 450 вопросов • Разборы RU/EN</p>
+        </header>
+
+        <main class="blocks">
+            <div class="block block-blue" onclick="openBlock(1)">
+                <div class="block-header">
+                    <span class="block-chapters">1~4과</span>
+                    <span class="block-badge">БЕСПЛАТНО</span>
+                </div>
+                <h2 class="block-title">자기소개 학교 사무실</h2>
+                <p class="block-subtitle">Знакомство, школа, офис</p>
+                <button class="block-button">Перейти к тесту →</button>
+            </div>
+
+            <div class="block block-yellow" onclick="openBlock(2)">
+                <div class="block-header">
+                    <span class="block-chapters">5~9과</span>
+                </div>
+                <h2 class="block-title">시간 음식 쇼핑</h2>
+                <p class="block-subtitle">Время, еда, покупки</p>
+                <button class="block-button">Перейти к тесту →</button>
+            </div>
+
+            <div class="block block-green" onclick="openBlock(3)">
+                <div class="block-header">
+                    <span class="block-chapters">10~14과</span>
+                </div>
+                <h2 class="block-title">가족 교통 약국</h2>
+                <p class="block-subtitle">Семья, транспорт, аптека</p>
+                <button class="block-button">Перейти к тесту →</button>
+            </div>
+
+            <div class="block block-pink" onclick="openBlock(4)">
+                <div class="block-header">
+                    <span class="block-chapters">15~18과</span>
+                </div>
+                <h2 class="block-title">날씨 병원 계획</h2>
+                <p class="block-subtitle">Погода, больница, планы</p>
+                <button class="block-button">Перейти к тесту →</button>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Первый блок — бесплатно</p>
+        </footer>
+    </div>
+
+    <script src="js/app.js?v=2"></script>
+</body>
+</html>

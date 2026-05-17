@@ -1,0 +1,101 @@
+{
+  "total_questions": 101,
+  "duplicates_count": 17,
+  "duplicates": {
+    "Произношение": [
+      "ch2_kiip.md",
+      "ch2_kiip.md",
+      "ch4_kiip.md",
+      "ch5_kiip.md",
+      "ch5_kiip.md",
+      "ch12_kiip.md",
+      "ch15_kiip.md",
+      "ch15_kiip.md"
+    ],
+    "어휘 (Лексика)": [
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md"
+    ],
+    "문법 (Грамматика)": [
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md"
+    ],
+    "읽기 (Чтение)": [
+      "ch3_kiip.md",
+      "ch3_kiip.md",
+      "ch3_kiip.md"
+    ],
+    "발음 (Произношение)": [
+      "ch3_kiip.md",
+      "ch3_kiip.md"
+    ],
+    "Место-Действие": [
+      "ch5_kiip.md",
+      "ch5_kiip.md",
+      "ch14_kiip.md"
+    ],
+    "Лексика (Счет)": [
+      "ch8_kiip.md",
+      "ch8_kiip.md",
+      "ch8_kiip.md"
+    ],
+    "Грамматика (Исключение ㄹ)": [
+      "ch8_kiip.md",
+      "ch8_kiip.md",
+      "ch11_kiip.md"
+    ],
+    "Грамматика (에 vs 에서)": [
+      "ch8_kiip.md",
+      "ch11_kiip.md"
+    ],
+    "Грамматика (Отрицание 안)": [
+      "ch8_kiip.md",
+      "ch11_kiip.md"
+    ],
+    "Культура (Деньги)": [
+      "ch8_kiip.md",
+      "ch8_kiip.md"
+    ],
+    "Грамматика (Вежливость)": [
+      "ch11_kiip.md",
+      "ch11_kiip.md",
+      "ch11_kiip.md"
+    ],
+    "Грамматика (-어 주다)": [
+      "ch11_kiip.md",
+      "ch11_kiip.md",
+      "ch11_kiip.md"
+    ],
+    "Лексика (Антонимы)": [
+      "ch11_kiip.md",
+      "ch14_kiip.md"
+    ],
+    "Числа/Время": [
+      "ch12_kiip.md",
+      "ch16_kiip.md",
+      "ch18_kiip.md"
+    ],
+    "Грамматика (안/못)": [
+      "ch14_kiip.md",
+      "ch14_kiip.md"
+    ],
+    "Исключение 'ㄷ'": [
+      "ch14_kiip.md",
+      "ch14_kiip.md"
+    ]
+  }
+}
