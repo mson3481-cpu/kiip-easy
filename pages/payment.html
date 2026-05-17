@@ -130,18 +130,14 @@
 
         function openWhatsApp() {
             const message = getMessage();
-            navigator.clipboard.writeText(message).then(() => {
-                alert('Текст скопирован! Отправьте его в чат (Ctrl+V).');
-                window.open('https://wa.me/821023880902', '_blank');
-            });
+            const encodedMessage = encodeURIComponent(message);
+            window.open(`https://wa.me/821023880902?text=${encodedMessage}`, '_blank');
         }
 
         function openTelegram() {
             const message = getMessage();
-            navigator.clipboard.writeText(message).then(() => {
-                alert('Текст скопирован! Отправьте его в чат (Ctrl+V).');
-                window.open('https://t.me/marinakim50340', '_blank');
-            });
+            const encodedMessage = encodeURIComponent(message);
+            window.open(`https://t.me/marinakim50340?text=${encodedMessage}`, '_blank');
         }
 
         // ========== Активация ключа ==========
